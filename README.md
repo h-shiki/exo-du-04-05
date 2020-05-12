@@ -25,8 +25,8 @@ remotly : heroku run rails db:migrate
 <br/>
 <br/>
 <br/>
-to locally deploy app run : <br/>
-git clone https://github.com/matthieuBA/my_new_event_brite_like_app.git<br/>
+to locally deploy app run :  <br/>
+git clone https://github.com/Florian-devweb/my_new_event_brite_like_app.git <br/>
 cd my_new_event_brite_like_app<br/>
 rails db:create<br/>
 rails db:migrate<br/>
@@ -40,4 +40,4 @@ open a browser and go to localhost:3000<br/>
 
 
 * To view the demo go to :
-https://my-new-event-brite-like-app.herokuapp.com/
+https://aqueous-sea-93793.herokuapp.com/
